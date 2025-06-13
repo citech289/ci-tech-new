@@ -7,7 +7,7 @@ const sections = {
         "Crafted by industry veterans, this rigorous program establishes a solid foundation in DevOps principles, CI/CD pipelines, and cloud infrastructure automation. Whether you're a beginner or an IT professional aiming to accelerate your career, this training merges cutting-edge tools with real-world deployment scenarios to empower you with the skills needed to streamline development workflows and enhance system reliability at scale.",
       image: "/Dev-Ops.png",
       modules: [" Coming Soon..."],
-      duration: "11–12 Weeks",
+      duration: "8–12 Weeks",
     },
   ],
 };

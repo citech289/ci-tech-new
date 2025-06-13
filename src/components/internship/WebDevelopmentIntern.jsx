@@ -6,7 +6,7 @@ const sections = {
         "Designed by industry professionals, this in-depth training program equips learners with a solid foundation in front-end and back-end web development. Covering essential technologies like HTML, CSS, JavaScript, React, Node.js, and databases, it blends theoretical knowledge with hands-on projects to build dynamic, responsive, and scalable web applications. Ideal for both beginners and aspiring developers, this internship-ready course bridges the gap between classroom learning and real-world application.",
       image: "/Web Development Training.png",
       modules: [" Coming Soon..."],
-      duration: "11–12 Weeks",
+      duration: "7–12 Weeks",
     },
   ],
 };

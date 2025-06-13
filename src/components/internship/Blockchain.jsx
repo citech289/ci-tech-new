@@ -8,7 +8,7 @@ const sections = {
         "Developed by industry leaders, this intensive program provides a robust foundation in blockchain technology, smart contracts, and decentralized applications (DApps). Whether you're a novice or a tech professional seeking to enhance your expertise, this training combines hands-on development with real-world use cases to equip you with the skills needed to build secure, scalable, and innovative blockchain solutions.",
       image: "/Blockchain-Training.png",
       modules: [" Coming Soon..."],
-      duration: "11–12 Weeks",
+      duration: "8–12 Weeks",
     },
   ],
 };

@@ -3,7 +3,7 @@ import {
   FaBook,
   FaCalendarAlt,
   FaMapMarkerAlt,
-  FaPenSquare
+  FaPenSquare,
 } from "react-icons/fa";
 import { IoMdArrowDropdown } from "react-icons/io";
 import { Link } from "react-router-dom";
@@ -32,7 +32,7 @@ const Navbar = () => {
           className="h-12 md:h-16 w-auto cursor-pointer rounded-md mt-2 mb-2 ml-4"
         />
       </Link>
-      <h2 className="hidden text-[#2e5c84] md:block text-base md:text-4xl font-medium  text-center w-full -mt-17">
+      <h2 className="hidden text-[#2e5c84] md:block text-base  md:text-4xl lg:text-4xl sm:text-3xl sm:pl-33  lg:pl-0 font-medium  text-center w-full -mt-17">
         Ci-STEM Information Technology Services Private Limited
       </h2>
 
@@ -77,7 +77,7 @@ const Navbar = () => {
             className="cursor-pointer hover:text-gray-300 flex items-center gap-1"
           >
             <FaCalendarAlt /> Training
-            <IoMdArrowDropdown className="inline-block ml-1 group-hover:rotate-180 duration-200 text-2xl" />
+            {/* <IoMdArrowDropdown className="inline-block ml-1 group-hover:rotate-180 duration-200 text-2xl" /> */}
           </Link>
         </li>
         <li className="relative group">
@@ -124,43 +124,82 @@ const Navbar = () => {
             <IoMdArrowDropdown className="inline-block ml-1 group-hover:rotate-180 duration-200 text-2xl" />
           </Link>
           <div className="absolute top-full left-0 mt-0 hidden group-hover:grid grid-cols-2 gap-2 bg-white text-black shadow-md rounded-md p-4 z-50 w-[500px]">
-            <Link to="/Blockchain" className="block px-3 py-2 hover:bg-gray-100 rounded">
+            <Link
+              to="/Blockchain"
+              className="block px-3 py-2 hover:bg-gray-100 rounded"
+            >
               Blockchain Development
             </Link>
-            <Link to="/MernStack" className="block px-3 py-2 hover:bg-gray-100 rounded">
+            <Link
+              to="/MernStack"
+              className="block px-3 py-2 hover:bg-gray-100 rounded"
+            >
               MERN Stack Development
             </Link>
-            <Link to="/JavaFsd" className="block px-3 py-2 hover:bg-gray-100 rounded">
+            <Link
+              to="/JavaFsd"
+              className="block px-3 py-2 hover:bg-gray-100 rounded"
+            >
               Java Full Stack Development
             </Link>
-            <Link to="/WebDevelopmentIntern" className="block px-3 py-2 hover:bg-gray-100 rounded">
+            <Link
+              to="/WebDevelopmentIntern"
+              className="block px-3 py-2 hover:bg-gray-100 rounded"
+            >
               Web Development
             </Link>
-            <Link to="/JavaBackend" className="block px-3 py-2 hover:bg-gray-100 rounded">
+            <Link
+              to="/JavaBackend"
+              className="block px-3 py-2 hover:bg-gray-100 rounded"
+            >
               Java Backend Development
             </Link>
-            <Link to="/Devops" className="block px-3 py-2 hover:bg-gray-100 rounded">
+            <Link
+              to="/Devops"
+              className="block px-3 py-2 hover:bg-gray-100 rounded"
+            >
               DevOps
             </Link>
-            <Link to="/HumanResource" className="block px-3 py-2 hover:bg-gray-100 rounded">
+            <Link
+              to="/HumanResource"
+              className="block px-3 py-2 hover:bg-gray-100 rounded"
+            >
               Human Resources Management
             </Link>
-            <Link to="/MobileDevelopmentIntern" className="block px-3 py-2 hover:bg-gray-100 rounded">
+            <Link
+              to="/MobileDevelopmentIntern"
+              className="block px-3 py-2 hover:bg-gray-100 rounded"
+            >
               Mobile Development
             </Link>
-            <Link to="/DataAnalytics" className="block px-3 py-2 hover:bg-gray-100 rounded">
+            <Link
+              to="/DataAnalytics"
+              className="block px-3 py-2 hover:bg-gray-100 rounded"
+            >
               Data Analytics
             </Link>
-            <Link to="/BusinessAnalytics" className="block px-3 py-2 hover:bg-gray-100 rounded">
+            <Link
+              to="/BusinessAnalytics"
+              className="block px-3 py-2 hover:bg-gray-100 rounded"
+            >
               Business Analytics
             </Link>
-            <Link to="/DataScienceAi" className="block px-3 py-2 hover:bg-gray-100 rounded">
+            <Link
+              to="/DataScienceAi"
+              className="block px-3 py-2 hover:bg-gray-100 rounded"
+            >
               Data Science with AI
             </Link>
-            <Link to="/PowerBi" className="block px-3 py-2 hover:bg-gray-100 rounded">
+            <Link
+              to="/PowerBi"
+              className="block px-3 py-2 hover:bg-gray-100 rounded"
+            >
               BI and Visualization
             </Link>
-            <Link to="/DigitalMarketingIntern" className="block px-3 py-2 hover:bg-gray-100 rounded">
+            <Link
+              to="/DigitalMarketingIntern"
+              className="block px-3 py-2 hover:bg-gray-100 rounded"
+            >
               Digital Marketing
             </Link>
           </div>

@@ -17,7 +17,7 @@ const sections = {
         "Phase 8:  Advanced Topics",
         "Phase 9: Project Development",
       ],
-      duration: "16–18 Weeks",
+      duration: "7–12 Weeks",
     },
   ],
 };

@@ -14,7 +14,7 @@ const sections = {
         "Phase 5: Statistics and Excel Essentials",
         "Phase 6: Projects and Portfolio Development",
       ],
-      duration: "11–12 Weeks",
+      duration: "8–12 Weeks",
     },
   ],
 };

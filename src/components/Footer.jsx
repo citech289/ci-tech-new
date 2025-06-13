@@ -9,17 +9,20 @@ const Footer = () => {
       title: "Quick Links",
       links: [
         { name: "About Us", url: "https://citechspl.com/About" },
-        { name: "Staffing", url: "#" },
-        { name: "Training", url: "#" },
-        { name: "Development", url: "#" },
-        { name: "Career", url: "#" },
+        { name: "Staffing", url: "https://www.citechspl.com/Staff" },
+        { name: "Training", url: "https://citechspl.com/Training" },
+        {
+          name: "Development",
+          url: "https://www.citechspl.com/BlockchainDevelopment",
+        },
+        { name: "Career", url: "https://www.citechspl.com/Carrer" },
       ],
     },
     {
       title: "Info",
       links: [
-        { name: "About Us", url: "#" },
-        { name: "Contact Us", url: "#" },
+        { name: "About Us", url: "https://citechspl.com/About" },
+        { name: "Contact Us", url: "https://www.citechspl.com/ContactUs" },
       ],
     },
     {
@@ -48,12 +51,11 @@ const Footer = () => {
         <div>
           <img
             className="w-34 md:w-32 rounded-md transition-transform duration-300 hover:scale-105"
-            src="FinalLogo.jpg"
+            src="Ci-stem.svg"
             alt="companylogo"
           />
           <p className="max-w-[410px] mt-6">
-            <b>Company:</b> Ci-STEM Information Technology Services
-            Private Limited
+            Ci-STEM Information Technology Services Private Limited
           </p>
           <p className="max-w-[410px] mt-6">
             9th floor, Anaya Chambers, GN 38/5, GN Block, Sector V, Bidhannagar,

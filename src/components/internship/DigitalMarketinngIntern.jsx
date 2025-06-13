@@ -8,7 +8,7 @@ const sections = {
 
       image: "/Digital Marketing Training.png",
       modules: [" Coming Soon..."],
-      duration: "11–12 Weeks",
+      duration: "8–12 Weeks",
     },
   ],
 };

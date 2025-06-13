@@ -11,7 +11,7 @@ const sections = {
         " Coming Soon...",
         
       ],
-      duration: "11–12 Weeks",
+      duration: "8–12 Weeks",
     },
   ],
 };

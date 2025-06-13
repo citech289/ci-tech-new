@@ -30,6 +30,8 @@ import WebDevelopmentIntern from "./components/internship/WebDevelopmentIntern";
 import MobileDevelopmentIntern from "./components/internship/MobileDevelopmentIntern";
 import Board from "./routes/Board";
 import Events from "./routes/Events";
+import ContactUs from "./routes/ContactUs";
+
 
 
 const App = () => {
@@ -48,7 +50,15 @@ const App = () => {
           }
         />
         
-        
+        <Route
+          path="/ContactUs"
+          element={
+            <>
+              <ContactUs />
+              <Footer />
+            </>
+          }
+        />
 
         <Route
           path="/Training"

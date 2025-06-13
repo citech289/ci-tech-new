@@ -6,7 +6,7 @@ const sections = {
         "Designed by industry experts, this intensive program builds a strong foundation in mobile app development, covering cross-platform frameworks, native development, and UI/UX best practices. Whether you're a beginner or an aspiring developer looking to enhance your skills, this training combines hands-on coding with real-world projects to equip you with the expertise needed to create high-performance, intuitive, and scalable mobile applications.",
       image: "/Mobile Development Training.png",
       modules: [" Coming Soon..."],
-      duration: "11–12 Weeks",
+      duration: "7–12 Weeks",
     },
   ],
 };

@@ -26,7 +26,7 @@ const sections = {
         "Phase 17: UI-Frameworks",
         "Phase 18: Project demo & Final Assessment (End to End)",
       ],
-      duration: "18–20 Weeks",
+      duration: "7–12 Weeks",
     },
   ],
 };

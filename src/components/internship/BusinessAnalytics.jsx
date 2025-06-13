@@ -6,7 +6,7 @@ const sections = {
       description:"Designed by industry experts, this immersive program equips you with essential skills in data-driven decision-making, statistical analysis, and business intelligence tools. Whether you're a beginner or an aspiring analyst, this training combines hands-on experience with real-world case studies to help you transform raw data into actionable insights, optimize business strategies, and drive organizational growth with confidence.",
       image: "/Busniness-Analytics.png",
       modules: [" Coming Soon..."],
-      duration: "11–12 Weeks",
+      duration: "8–12 Weeks",
     },
   ],
 };

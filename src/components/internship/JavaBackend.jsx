@@ -5,12 +5,12 @@ const sections = {
       title: "Java Backend Development",
       description:
         "Designed by industry experts, this immersive program establishes a strong foundation in Java backend development, covering core concepts like Spring Boot, REST APIs, microservices, and database integration. Whether you're a beginner or an aspiring developer looking to advance your skills, this training combines hands-on coding with real-world projects to prepare you for building scalable, high-performance backend systems.",
-      image: "/Java-FSD.png",
+      image: "/Javabackend.png",
       modules: [
         " Coming Soon...",
         
       ],
-      duration: "11–12 Weeks",
+      duration: "7–12 Weeks",
     },
   ],
 };

@@ -16,7 +16,7 @@ const sections = {
         "Phase 7: Business Intelligence Integration",
         "Phase 8: Real-Time Dashboards & Mobile",
       ],
-      duration: "11–12 Weeks",
+      duration: "7–12 Weeks",
     },
   ],
 };

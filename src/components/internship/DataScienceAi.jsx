@@ -22,7 +22,7 @@ const sections = {
         "Phase 13: Project",
         "Phase 14: Allocation to Client & Customers Live Project",
       ],
-      duration: "18–20 Weeks",
+      duration: "8–12 Weeks",
     },
   ],
 };
