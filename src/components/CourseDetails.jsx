@@ -1,8 +1,7 @@
-import { useParams, useNavigate } from "react-router-dom";
-import React from "react";
+import { useNavigate, useParams } from "react-router-dom";
 import { roadmapContent } from "../assets/roadmapContent";
 
-// Ideally move this to a separate file like courseData.js
+// Ideally move this to a separate file like courseData.js.
 const navItems = [
   { name: "All", slug: "" },
   { name: "Analytics", slug: "data-analytics" },
