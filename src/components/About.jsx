@@ -44,7 +44,7 @@ const About = () => {
 
   return (
     <div className="w-full mt-20">
-      {/* About Us Header */}
+      {/* About Us Header. */}
       <div className="bg-white py-12 px-4 md:px-12 text-center">
         <h1 className="text-4xl font-bold text-orange-500 mb-4">About Us</h1>
         <p className="text-xl text-[#2e5c84] font-medium">

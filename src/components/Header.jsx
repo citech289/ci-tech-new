@@ -5,7 +5,7 @@ import "swiper/css";
 import "swiper/css/navigation";
 import { Autoplay } from "swiper/modules";
 
-// import required modules
+// import required modules.
 import { Navigation } from "swiper/modules";
 const Header = () => {
   return (

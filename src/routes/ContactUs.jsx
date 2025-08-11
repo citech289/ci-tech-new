@@ -12,7 +12,7 @@ export default function ContactForm() {
       </p>
 
       <div className="grid md:grid-cols-3 gap-8 bg-white rounded-xl shadow-md p-8">
-        {/* Left - Form */}
+        {/* Left - Form. */}
         <div className="md:col-span-2">
           <h3 className="text-xl font-semibold mb-6">Send us a message</h3>
           <form className="space-y-5">
